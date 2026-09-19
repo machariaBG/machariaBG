@@ -19,7 +19,7 @@ I specialize in host-based digital forensics, threat hunting, and enterprise tel
 | Case / Project | Discipline | Key Tooling | Focus & Artifacts |
 | :--- | :--- | :--- | :--- |
 | **[DFIR Case 01: Registry Persistence](https://github.com/machariaBG/DFIR-Case-01-Registry-Persistence)** | Host Forensics | Sysinternals Autoruns, FTK Imager, Registry Explorer | Run key persistence, process masquerading, and registry anomaly triage. |
-| **[DFIR Case 02: Volatile Memory Analysis](#)** | Memory Forensics | Volatility 3, WinPmem, VMware | Process tree hierarchy (`pstree`), encoded command-line extraction (`cmdline`), injected code. |
+| **[DFIR Case 02: Volatile Memory Analysis]([#](https://github.com/machariaBG/DFIR-Case-02-Scheduled-Tasks-Memory))** | Memory Forensics | Volatility 3, WinPmem, VMware | Process tree hierarchy (`pstree`), encoded command-line extraction (`cmdline`), injected code. |
 | **[SOC Lab 01: Sysmon & Splunk Pipeline](#)** | SIEM Engineering | Splunk Enterprise, Sysmon, PowerShell Logging | Telemetry pipeline setup, scheduled task detection (`schtasks`), SPL query tuning. |
 
 ---
